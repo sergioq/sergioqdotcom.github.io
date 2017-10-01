@@ -1,0 +1,45 @@
+body {
+    background-color: floralwhite;
+    font-family: Nunito, Verdana, Tahoma, sans-serif;   
+}
+
+header {
+    border-bottom: 10px solid #b8aa8e;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 2em;
+}
+
+#main-header {
+    margin: 0;
+}
+
+#main-header img {
+    float: left;
+}
+
+#main-header h1 {
+    float: left;
+    font-family: Chango, Verdana, Tahoma, sans-serif;
+    padding: 5.5em 0.2em 0 .5em;
+    font-size: 3em;
+}
+
+#main-header p {
+  padding: 20.4em 0 0 0;
+}
+
+main section {
+    padding: 0.1em 0 0.25em 1em;
+    margin: 0.5em 0;
+}
+
+footer {
+    background-color: #B8AA8E;
+    color: white;
+    text-align: center;
+    padding: 0.25em 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
